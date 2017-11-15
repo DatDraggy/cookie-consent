@@ -6,7 +6,7 @@ Small script to display a small notice for your site visitors in the bottom righ
 
 ## How to use
 
-Change `"//example.com/cookie-consent/"` on line 3 in script.js to the url where the 3 files will be found.
+Change the path `"//example.com/cookie-consent/"` on line 3 in script.js (or var e if you use the minified version) to the url where the 3 files will be found.
 
 Put following in the header of your website where the popup should be shown
 ```
