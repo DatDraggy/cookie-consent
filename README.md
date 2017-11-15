@@ -1,6 +1,6 @@
 # cookie-consent
 
-Small script to display a small notice for your site visitors in the bottom right corner.
+Small script to display a little notice for your site visitors in the bottom right corner.
 
 ![Preview](https://puu.sh/ymwOO/f002b0a5c9.png)
 
