@@ -20,5 +20,5 @@ Put following in the header of your website where the popup should be shown
       theme: 'light-floating'
     };
   </script>
-  <script src="//example.com/cookie-hinweis/script.js"></script>
+  <script src="//example.com/cookie-consent/script.js"></script>
 ```
