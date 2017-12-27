@@ -94,10 +94,10 @@
                 }(),
                 o = {
                     options: {
-                        message: "Diese Website nutzt Cookies, um bestm&ouml;gliche Funktionalit&auml;t bieten zu k&ouml;nnen. ",
+                        message: "This website uses cookies to bring you the best possible experience while using it. ",
                         dismiss: "Got it!",
                         learnMore: "More info",
-                        link: null,
+                        link: 'https://en.wikipedia.org/wiki/HTTP_cookie',
                         container: null,
                         theme: "light-floating",
                         markup: ['<div class="cc_banner-wrapper {{containerClasses}}">', '<div class="cc_banner cc_container cc_container--open">', '<a href="#null" data-cc-event="click:dismiss" class="cc_btn cc_btn_accept_all">{{options.dismiss}}</a>', '<p class="cc_message">{{options.message}} <a rel="nofollow" data-cc-if="options.link" class="cc_more_info" href="{{options.link || "#null"}}">{{options.learnMore}}</a></p>', "</div>", "</div>"]
