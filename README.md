@@ -11,7 +11,7 @@ Change the path `"//example.com/cookie-consent/"` on line 3 in script.js (or var
 Put following in the header of your website where the popup should be shown
 ```
   <!-- Start Cookie Plugin -->
-  <script type="text/javascript">
+  <script>
     window.cookieconsent_options = {
       message: 'This website uses cookies. Thank you for understanding.',
       dismiss: 'Ok, I accept',
