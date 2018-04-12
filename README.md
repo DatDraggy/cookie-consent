@@ -1,6 +1,7 @@
 # cookie-consent
 
 Small script to display a little notice for your site visitors in the bottom right corner.
+I didn't write it. I didn't want to load the script via an unknown domain so I extracted the source code and put it up here.
 
 ![Preview](https://puu.sh/ymwOO/f002b0a5c9.png)
 
@@ -22,3 +23,4 @@ Put following in the header of your website where the popup should be shown
   </script>
   <script src="//example.com/cookie-consent/script.js"></script>
 ```
+
