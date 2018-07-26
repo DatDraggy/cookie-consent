@@ -9,7 +9,7 @@ I didn't want to load this via an external domain so I extracted the source code
 
 Change the path `"//example.com/cookie-consent/"` on line 3 in script.js (or var e if you use the minified version) to the url where the 3 files will be found.
 
-Put following in the header of your website where the popup should be shown
+Put following in the head of your website
 ```
   <!-- Start Cookie Plugin -->
   <script>
