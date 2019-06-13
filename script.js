@@ -1,6 +1,6 @@
 ! function() {
     if (!window.hasCookieConsent) {
-        var path = "//example.com/cookie-consent/";
+        var path = "js/cookie-consent/";
         window.hasCookieConsent = !0;
         var e = "cookieconsent_dismissed";
         if (!(document.cookie.indexOf(e) > -1)) {
